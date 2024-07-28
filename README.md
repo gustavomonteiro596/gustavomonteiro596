@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**gustavomonteiro596/gustavomonteiro596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Gustavo monteiro, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+- HTML
+- CSS
+- Iniciando o aprendizado de JavaScript e React.
+<br>
+<br>
+<br>
+<br>
+## Meus Contatos :globe_with_meridians:
+<br>
+Linkedin=https://www.linkedin.com/in/gustavo-monteiro-33691a319/
+<br>
+Telefone=https://w.app/uIw6ne
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+[![Gustavo stats](https://github-readme-stats.vercel.app/api?username=gustavomonteiro596)](https://github.com/anuraghazra/github-readme-stats)
